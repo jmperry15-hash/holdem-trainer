@@ -1,0 +1,6 @@
+node_modules/
+.build/
+site/
+dist/
+.claude/
+.DS_Store
